@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Dec_Team_05
 >>>>>>> 7a84e665b239c1187e940a05bdcfac9081db5005
+=======
+# KHUB-DEC-TASK
+>>>>>>> 1fba8068b077c389bdb1d294de4dd1d08c9980b3
